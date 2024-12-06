@@ -10,7 +10,7 @@ This project applies machine learning techniques, specifically K-means and Hiera
 
 ## How to Run
 1. Clone this repository:
-  git clone https://github.com/your-username/Mall_Customer_Segmentation.git
+  git clone https://github.com/MehrdadNaderiCom/Mall_Customer_Segmentation.git
 2. Open the `customer_segmentation.ipynb` notebook.
 3. Run all cells in Google Colab or a local Jupyter environment.
 
