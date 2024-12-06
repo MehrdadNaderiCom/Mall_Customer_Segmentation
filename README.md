@@ -1,23 +1,19 @@
 # Mall Customer Segmentation
 
 ## Project Overview
-This project applies machine learning techniques, specifically K-means and Hierarchical Clustering, to segment customers into meaningful groups based on their demographic and spending behavior.
+This project demonstrates how machine learning techniques, specifically **K-means** and **Hierarchical Clustering**, can be used to segment customers into meaningful groups based on their demographic attributes and spending behavior. The insights gained from this segmentation aim to support targeted marketing strategies and resource optimization.
 
 ## Key Features
-- **Exploratory Data Analysis (EDA)**: Visualization of customer demographics and spending patterns.
-- **Clustering Models**: Implementation of K-means and Hierarchical Clustering.
-- **Results and Insights**: Actionable insights for targeted marketing strategies.
+- **Exploratory Data Analysis (EDA)**:
+  - Visualization of customer demographics and spending patterns.
+  - Handling of outliers and feature scaling for optimal clustering.
+- **Clustering Models**:
+  - Implementation of **K-means** and **Hierarchical Clustering** algorithms.
+  - Optimal cluster determination using the **Elbow Method** and **Silhouette Score**.
+- **Results and Insights**:
+  - Actionable recommendations for personalized marketing strategies based on cluster characteristics.
 
 ## How to Run
 1. Clone this repository:
-  git clone https://github.com/MehrdadNaderiCom/Mall_Customer_Segmentation.git
-2. Open the `customer_segmentation.ipynb` notebook.
-3. Run all cells in Google Colab or a local Jupyter environment.
-
-## Dataset
-- Dataset: [Mall Customers Dataset](https://www.kaggle.com/datasets/shwetabh123/mall-customers)
-- Source: Kaggle
-
-## Acknowledgments
-- Dataset provided by Kaggle.
-- Google Colab used for implementation.
+   ```bash
+   git clone https://github.com/MehrdadNaderiCom/Mall_Customer_Segmentation.git
